@@ -6,6 +6,9 @@ This project is a Next.js application that demonstrates a beautiful click effect
 ## Live Demo
 Experience the click effect live at: [clickeffects.pages.dev](https://clickeffects.pages.dev)
 
+## Screenshot
+<img src="./public/DEMO1.gif" alt="示例图片" width="400" height="400">
+
 ## Features
 - **Particle Animation**: Heart icons animate with random velocity and fade out
 - **Customizable Effects**: Adjustable parameters for particle size, speed, and colors
