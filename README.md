@@ -7,7 +7,7 @@ This project is a Next.js application that demonstrates a beautiful click effect
 Experience the click effect live at: [clickeffects.pages.dev](https://clickeffects.pages.dev)
 
 ## Screenshot
-<img src="./public/DEMO1.gif" alt="示例图片" style="width:400px;height:400px;">
+<img src="./public/DEMO1.gif" width="30%">
 
 
 ## Features
